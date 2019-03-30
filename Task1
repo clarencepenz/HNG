@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CNN International - Breaking News</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div class="container">
+	<header id="header">
+		<div id="logo">
+			<img src="img/logo.png">
+		</div>
+
+		<div id="nav-items">
+			<a href="">World</a>
+		</div>
+
+		<div id="nav-items">
+			<a href="">U.S. Politics</a>
+		</div>
+		<div id="nav-items">
+			<a href="">Entertainment</a>
+		</div>
+		<div id="nav-items">
+			<a href="">Tech</a>
+		</div>
+		<div id="nav-items">
+			<a href="">Sport</a>
+		</div>
+		<div id="nav-items">
+			<a href="">Travel</a>
+		</div>
+		<div id="nav-items">
+			<a href="">Style</a>
+		</div>
+		<div id="nav-items">
+			<a href="">Health</a>
+		</div>
+		<div id="nav-items">
+			<a href="">Video</a>
+		</div>
+		<div id="nav-items" class="end">
+			<a href="">VR</a>
+		</div>	
+
+	<div class="clr"></div>
+
+		<div id="nav-items2">
+			<a href="">International Edition</a>
+
+	</div>
+
+	<div class="clr"></div>
+
+	<div id="nav-icons">
+			<a href=""><img  src="img/add.png"></a>
+			<a href=""><img  src="img/search.png"></a>
+			<a href=""><img  src="img/menu.png"></a>
+	</div>
+		</header>
+</div>
+
+
+
+
+</body>
+</html>
