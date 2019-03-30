@@ -62,6 +62,50 @@
 
 
 
+<div class="clr"></div>
+<div id="section-a">
+	<div id="box">
+		<a  href=""><h1>'We're in crazytown'</h1></a>
+		<a href=""><img src="img/boximg.png"></a>
+		<a href=""><h2>Aides stole Trump's papers 'to protect the country', Bob Woodward writes in explosive book obtained by CNN</h2></a>
+		<a href=""><p>Bob Woodward's bizarre phone call with Trump</p></a>
+<a href=""><p>READ: Trump and Woodward's phone call transcript</p></a>
+<a href=""><p>Analysis: Peeking behind the curtain is as terrifying as we feared</p></a>
+<a href=""><p id="impt">Book revives concerns about Trump's fitness for office</p></a>
+	</div>
+
+
+	<div id="box2">
+		<h3>Top stories</h3>
+		<a href=""><img src="img/news.png"></a>
+		<a href=""><h2>Bittter partisan displays mark first day of hearings for Trump's justice pick</h2></a>
+
+		<div id="box22">
+			<a href=""><img src="img/lady.png"></a>
+			<a href=""><h2>Instagram influencer died by hanging on superyacht, coroner says</h2></a>
+		</div>
+	</div>
+</div>
+
+<div id="box3">
+		<a href=""><img src="img/woman.png"></a>
+		<a href=""><h2>Ayanna Pressley set to be first black woman elected to Congress in Massachusetts</h2></a>
+
+		
+			<a href=""><p>Trump warns Assad against assault, denies wanting to assassinate him</p></a>
+			<a href=""><p>Musk's latest accusations 'vile and false'</p></a>
+			<a href=""><p>Third Philippines mayor killed in 3 months</p></a>
+			<a href=""><p><span class="color">OPINION</span> By calling Sessions a dumb Southerner, Trump has done the impossible</p></a>
+			<a href=""><p>UK's 'worst' building revealed</p></a>
+			<a href=""><p>Tech CEO arrested on suspicion of rape</p></a>
+			<a href=""><p>Asia Argento's attorney says 17-year-old sexually 'attacked' her</p></a>
+			<a href=""><p id="impt">Dirtiest place in the airport revealed</p></a>
+		
+	</div>
+</div>
+
+
+
 
 </body>
 </html>
